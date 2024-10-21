@@ -1,16 +1,11 @@
-# tabview
+# Tab View
 
-A new Flutter project.
+Proyek Flutter ini berfokus pada penggunaan **Tab View**, yaitu elemen antarmuka pengguna (UI) yang memungkinkan navigasi antar halaman atau konten melalui tab. Proyek ini merupakan contoh implementasi bagaimana membuat aplikasi dengan beberapa tab yang dapat diakses pengguna untuk berpindah antar konten dengan mudah.
 
-## Getting Started
+## Fitur Utama
+- **Navigasi Tab:** Aplikasi ini menggunakan widget TabBar dan TabBarView untuk memungkinkan pengguna berpindah antar halaman atau konten dengan mengetuk tab yang tersedia di bagian atas aplikasi.
+- **Desain Multi-Tab:** Setiap tab menampilkan konten berbeda, memperlihatkan fleksibilitas Flutter dalam mengelola berbagai jenis data atau tampilan di setiap tab.
+- **Navigasi Halus:** Pengguna dapat menggeser layar secara horizontal untuk berpindah antar tab, memberikan pengalaman pengguna yang halus dan intuitif.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tujuan Proyek
+Proyek ini bertujuan untuk memberikan contoh kepada pengguna tentang cara mengimplementasikan **Tab View** di aplikasi Flutter. Penggunaan tab sangat umum di aplikasi modern untuk memudahkan navigasi tanpa mengganggu tampilan utama. Dengan proyek ini, pengguna dapat belajar bagaimana membuat dan mengelola navigasi menggunakan tab, baik untuk konten statis maupun dinamis.
